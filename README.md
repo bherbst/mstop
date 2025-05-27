@@ -16,7 +16,7 @@ The M-Stop is really just a Bluetooth space bar. That's it!
 * 1x Mini (24mm) arcade button ([Adafruit](https://www.adafruit.com/product/3430))
 * 1x Mini on-off power button ([Adafruit](https://www.adafruit.com/product/3870))
 * 1x battery (I used [this 3.7v, 400mAh one from Adafruit](https://www.adafruit.com/product/3898) and designed the 3D print for it, if you want to use something else you'll need to adjust how you install it)
-* Male JST PH cable ([Adafruit](https://www.adafruit.com/product/3814))
+* 1x Male JST PH cable ([Adafruit](https://www.adafruit.com/product/3814))
 * Miscellaneous wires, solder, and connectors. The specifics here aren't super important. I decided to try out [a JST-PH connector](https://www.amazon.com/dp/B0731MZCGF) with [this 4-wire cable](https://www.adafruit.com/product/3891) to ease assembly, but you could also directly solder everything together if you wanted to.
 
 ## Wiring
