@@ -1,5 +1,5 @@
 # M-Stop
-I was at an [FRC Team 2052 (KnightKrawler)](https://www.team2052.com/) while some programming students were iterating on the team's autonomous code, and I was thinking about the extra brake pedal for driving instructors in cars designed for driver's education. Wouldn't it be cool if we had an extra brake pedal (e-stop button) for FRC mentors?
+I was at an [FRC Team 2052 (KnightKrawler)](https://www.team2052.com/) while some of our programming students were iterating on the team's autonomous code. I was standing on the opposite side of the room from the programmers at the driver station laptop and I got to thinking about the extra brake pedal for driving instructors in cars designed for driver's education. Wouldn't it be cool if we had an extra brake pedal (e-stop button) for FRC mentors that we could use from anywhere near the robot?
 
 Now we do!
 
